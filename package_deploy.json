@@ -1,6 +1,6 @@
 {
   "homepage": "/portfolios/determine_4_numbers/",
-  "name": "redux_sample",
+  "name": "4-digit-counter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
